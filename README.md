@@ -1,0 +1,2 @@
+CKEditor-WidgetFoundation-Plugin
+================================
